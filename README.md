@@ -11,7 +11,7 @@ Advanced architecture and guidelines to create large-scale Angular applications.
 
 [Source] https://en.wikipedia.org/wiki/Software_architect
 
-**Run towards the Goal**
+# Run towards the Goal
 
 Our main goal is used to have something that's easy to develop, maintian and test. If we are able to achieve this on planned duration, then our application is going to be future proof as well.
 
