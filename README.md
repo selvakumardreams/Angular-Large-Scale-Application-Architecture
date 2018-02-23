@@ -24,3 +24,24 @@ Here I am going share my knowledge on architect of Large Scale Web Application u
 As web technology growing fast now a days (Javascript), we need to adpot to the technology growth.
 
 https://differential.com/insights/behind-the-explosive-growth-of-javascript/
+
+# How and where to start?
+
+Most of us think how to start architecture & designing for new large application / re-design exisiting application to new technology. 
+
+* Understand the product / application which we are going to design. 
+
+**Ask yourself more question and find the answers**
+
+    1. Why this product?
+    2. What this product will do for customer?
+    3. How to make customer life easier by using this product?
+    4. How to integrate this product with other vendor?
+    5. Whether are we using right technology?
+    6. Whether this product will be a application or framework?
+    7. What are the Functional Requirements?
+    8. What are the Non Functional Requirements?
+    9. How easy to maintain the product?
+    10. How easy to migrate the product?
+    
+If you are satisfied with your answers, then we can move to the next stage.
